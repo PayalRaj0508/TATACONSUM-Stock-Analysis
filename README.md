@@ -41,9 +41,7 @@ Want to analyze a specific stock or create a tailored dashboard? Let's collabora
 
 ## 📸 Screenshots  
 **Dashboard Overview**:  
-![Dashboard Overview](Screenshots/Dashboard_Overview.png)  
-
-
+![Dashboard Overview](Capture.png)  
 
 ---
 
